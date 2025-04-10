@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*media query*/
 @media (max-width: 768px ) {
   .welcome {
@@ -42,6 +43,8 @@
 
 
 
+=======
+>>>>>>> d5ae7d2bcd5f92e159c656766872403569d845a2
 /* For the heading of website */
 * {
     margin: 0;
@@ -120,7 +123,10 @@ ul {
     padding-left: 20px;
   }
   
+<<<<<<< HEAD
 
+=======
+>>>>>>> d5ae7d2bcd5f92e159c656766872403569d845a2
 section {
     margin: 20px 0;
   }  
@@ -129,6 +135,7 @@ section {
     max-width: 600px;
 
   }
+<<<<<<< HEAD
   .upload-form {
     display: flex;
     flex-wrap: wrap;
@@ -186,6 +193,17 @@ hr {
   height: 2px;
   background-color: #3f3d56;
   border: none;
+=======
+
+
+  hr {
+    height: 2px;
+    background-color: #3f3d56;
+    border: none;
+    margin: 40px auto;
+    width: 100%;
+
+>>>>>>> d5ae7d2bcd5f92e159c656766872403569d845a2
 }
 
 
@@ -208,6 +226,10 @@ button, .search-bar button {
     color: white;
     border: none;
     padding: 0.6rem 1.2rem;
+<<<<<<< HEAD
+=======
+    border-radius: 6px;
+>>>>>>> d5ae7d2bcd5f92e159c656766872403569d845a2
     font-weight: 600;
     transition: background-color 0.3s;
   }
@@ -243,6 +265,7 @@ button, .search-bar button {
   
   /* Styles for the search button */
   #search-button {
+<<<<<<< HEAD
     background-color: #333;
     color: white;
     border: none;
@@ -272,6 +295,24 @@ button, .search-bar button {
 
   
 
+=======
+    padding: 15px 20px;
+    font-size: 1.2rem;
+    margin-left: 10px;          /* Space between the input and button */
+    border: none;
+    background-color: #6c63ff;  /* A complementary color for the button */
+    color: white;
+
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Hover effect for the search button */
+  #search-button:hover {
+    background-color: #574fd6;
+  }
+
+>>>>>>> d5ae7d2bcd5f92e159c656766872403569d845a2
 
   
 
